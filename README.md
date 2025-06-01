@@ -3,7 +3,7 @@
 An advanced model railroad control program written in perl. Used for automating things like block occupancy 
 detection, track signaling, turnout positioning, and reverse loop polarity. Uses forked processes for signal
 indications and slow motion turnout positioning using the SG90 micro servo. A perl based barebones webserver
-is implemented for operational status display by computer or phone web browser.<br/>
+is implemented for display of operational status by computer or smartphone web browser.<br/>
 <br/>
 The Raspberry Pi-3 model B was used in this project. Newer versions such as the RPi-4 or RPi-5 should 
 also work. The RPi runs Raspberry Pi linux which includes code libraries for driving GPIO pins. Off-the-shelf 
