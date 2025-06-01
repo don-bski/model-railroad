@@ -6,7 +6,7 @@ indications and slow motion turnout positioning. A perl based barebones webserve
 of operational status by computer or smartphone web browser.<br/>
 <br/>
 The Raspberry Pi-3 model B was used in this project. Newer versions such as the RPi-4 or RPi-5 should 
-also work. The RPi uses Raspberry Pi linux which includes code libraries for driving GPIO pins. Off-the-shelf 
+also work. The RPi uses Raspberry Pi linux which includes code libraries for driving GPIO pins. Off the shelf 
 RPi hardware **'hats'** interface the layout sensors and turnout SG90 micro servos. One custom hardware hat 
 was constructed since no commercially available item could be found at the time. It interfaces the trackside
 semaphore signals using a software driven 32 bit 74HC595 shift register. Hardware schematics and layout 
