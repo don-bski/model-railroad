@@ -11,8 +11,7 @@ RPi hardware **'hats'** interface the layout sensors and turnout servos. One cus
 since no commercially available item could be found at the time. It interfaces the trackside semaphore signals
 using a software driven 32 bit 74HC595 shift register. Hardware schematics and layout details are included.<br/>
 <br/>
-While the code is specific to this model railroad layout, the design concepts and software adaptable to 
-other model railroad projects. The code contains test functions which are useful during construction,
-troubleshooting, and maintenance of the layout. See the program code comments and browser based documentation
-in the **doc** folder for further details. For an operational perspective, see the **DnBOperatorGuild.pdf** in.
-the **doc** folder.
+While the code is specific to this model railroad layout, the design concepts and software are adaptable to 
+other projects. The code contains test functions which are useful during construction, troubleshooting, and 
+maintenance of the layout. See the program code comments and browser based documentation in the **doc** folder 
+for further details. For an operational perspective, see the **DnBOperatorGuild.pdf** in the **doc** folder.
