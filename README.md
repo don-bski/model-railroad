@@ -2,7 +2,7 @@
 **OS: Linux RPi-3**<br/>
 An advanced model railroad control program written in perl. Used for automating things like block occupancy 
 detection, track signaling, turnout positioning, and reverse loop polarity. Uses forked processes for signal
-indications and slow motion turnout positioning. A perl based barebones webserver is implemented for display
+indications and slow motion turnout positioning. A perl based very basic webserver is implemented for display
 of operational status by computer or smartphone web browser.<br/>
 <br/>
 The Raspberry Pi-3 model B was used in this project. Newer versions such as the RPi-4 or RPi-5 should 
